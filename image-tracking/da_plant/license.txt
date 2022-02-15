@@ -1,0 +1,11 @@
+Model Information:
+* title:	da plant
+* source:	https://sketchfab.com/3d-models/da-plant-548cc982989a48bf9549334e5e425a59
+* author:	fastyfast40 (https://sketchfab.com/fastyfast40)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "da plant" (https://sketchfab.com/3d-models/da-plant-548cc982989a48bf9549334e5e425a59) by fastyfast40 (https://sketchfab.com/fastyfast40) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
