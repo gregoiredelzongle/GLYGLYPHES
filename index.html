@@ -6,22 +6,55 @@
 
     <body style="margin : 0px; overflow: hidden;">
         <a-scene embedded arjs vr-mode-ui="enabled: false">
-        <!--N°1-->
-            <a-marker preset="hiro">
+
+
+
+
+            <!--N°2moche plate
+            <a-marker preset="kanji">
                 <a-entity
                 position="0 0 0"
                 rotation="0 0 0"
                 scale="0.7 0.7 0.7"
-                gltf-model="./image-tracking/outdoor-plant/outdoor.gltf"
+                gltf-model="./image-tracking/flower.gltf"
                 animation="property: rotation; to: 0 360 0; dur: 6000; easing: linear; loop: true"></a-entity>
 
                 <a-image position = "0 0 0" rotation= "90" width="1" height="1" src="./texte/01.png"
-                animation="property: rotation; to: 90 -360 0; dur: 6000; easing: linear; loop: true"
-                    >
+                animation="property: rotation; to: 90 -360 0; dur: 6000; easing: linear; loop: true">
+                </a-image>
+
+            </a-marker> -->
+
+            <!--N°1 Morse 
+            <a-marker preset="kanji">
+                <a-entity
+                position="0 0 0"
+                rotation="0 0 0"
+                scale="0.7 0.7 0.7"
+                gltf-model="./image-tracking/plant-sauvage/scene.gltf"
+                animation="property: rotation; to: 0 360 0; dur: 6000; easing: linear; loop: true"></a-entity>
+
+                <a-image position = "0 0 1" scale="0.3 0.3 0.3" rotation= "90" width="17" height="1" src="./texte/01-Morse.png">
                 </a-image>
 
             </a-marker>
+            -->
 
+
+              N°2 HEXA 
+            <a-marker preset="kanji">
+                <a-entity
+                position="0 0 0"
+                rotation="0 0 0"
+                scale="0.7 0.7 0.7"
+                gltf-model="./image-tracking/plant-sauvage/scene.gltf"
+                animation="property: rotation; to: 0 360 0; dur: 6000; easing: linear; loop: true"></a-entity>
+
+                <a-image position = "0 0 1" scale="0.3 0.3 0.3" rotation= "0" width="17" height="1" src="./texte/02-HEXA.png">
+                </a-image>
+
+            </a-marker>
+        
 
 
         <!--N°2moche plate
